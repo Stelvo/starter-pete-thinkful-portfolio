@@ -1,2 +1,2 @@
 # starter-pete-thinkful-portfolio
-Updated the HTML file with links that connect to the Thinkful page on Instagram, Pinterist and Linked in. links work in my testing enviorment.
+This code contains the HTML and CSS contents to make up the Home page for Pete Thinkful. After the initial build of the webcite, it has been updated to create a more appealing display of information. The links in the Contact portion of the page have been updated to connect to the Thinkful page on Instagram, Pinterest, and Linked in, the links are directed to Thinkful because I do not have nither an Instagram, Linked-in nor a Pinteritst.
